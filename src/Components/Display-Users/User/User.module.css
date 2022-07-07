@@ -1,0 +1,16 @@
+.userDetails {
+  padding: 10px;
+  background-color: var(--secondary-bg);
+}
+
+.name {
+  margin: 15px 0;
+}
+
+.name:hover {
+  cursor: pointer;
+}
+
+.userDetails p {
+  margin: 10px 0;
+}
